@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify to YouTube",
+  "version": "1.0",
+  "description": "Convert a Spotify playlist to a YouTube playlist",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
